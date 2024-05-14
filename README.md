@@ -1,1 +1,1 @@
-# password_complexity_checker
+# prodigy_CS_task3_password_complexity_checker
