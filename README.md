@@ -1,1 +1,1 @@
-# prodigy_CS_task3_password_complexity_checker
+# Oasis_task3_password_complexity_checker
